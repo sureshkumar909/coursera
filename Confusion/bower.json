@@ -1,0 +1,27 @@
+{
+  "name": "confusion",
+  "authors": [
+    "GLOBAL\\SBOSEJ <suresh.bommalata@scania.cocm>"
+  ],
+  "description": "Website for conFusion restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "confusion",
+    "fusion",
+    "restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
